@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**luidmilaam/luidmilaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# 👋 Hi, I'm Liudmila Ambarova
+## Hi there  I'm Liudmila Ambarova
 
 🔭 **I’m currently working on**: Data analytics, financial forecasting, and marketing analytics.
 🌱 **I’m currently learning**: AWS cloud solutions, advanced machine learning, and automation with Power Platform.
