@@ -23,7 +23,7 @@
 
 ## Work Experience
 
-### 🔹 Business Logic Consultant & Python Developer | NovaHim
+### 🔹 Business Logic Consultant & Python Developer | NovaHim *(05.2026 - 09.2026)*
 
 - Automated tender data processing, reducing quotation preparation time from approximately **30–90 minutes to a target of 3–5 minutes**.
 - Developed algorithms and business logic for product matching, pricing, financial calculations, and quotation workflows.
