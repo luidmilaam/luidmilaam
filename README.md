@@ -1,4 +1,4 @@
-# Hi there I'm Liudmila Ambarova
+## Hi there I'm Liudmila Ambarova
 
 🔭 **I’m currently working on**: Data analytics, financial forecasting, marketing analytics, finance automation, backend development, and Python-based business solutions.  
 🌱 **I’m currently learning**: AWS cloud solutions, advanced machine learning, automation with Power Platform, AI-assisted development, vibe coding, and prompt engineering.  
