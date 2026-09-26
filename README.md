@@ -12,11 +12,12 @@
 ---
 
 ## Skills & Technologies
-- **Data Analytics & Business Intelligence**: Power BI, SQL, Tableau, Google Analytics 4, Looker
+- **AI & Automation**: AI-assisted development, prompt engineering, Power Automate, workflow automation, vibe coding
+- **Data Analytics & Business Intelligence**: Power BI, SQL, PostgreSQL, Power Query, DAX, Tableau, Google Analytics 4, Looker
+- **Programming & Data Science**: Python (Pandas, NumPy, Scikit-learn), backend development, APIs, Git/GitHub, Supabase, Machine Learning (XGBoost, LightGBM, CatBoost)
+- **Financial & Risk Analysis**: Budgeting, Forecasting, Cash Flow Planning, Variance Analysis, Financial Modelling, Credit Scoring, Predictive Modeling, Regulatory Compliance
+- **Leadership & Strategy**: Budget Planning, Process Optimization, Business Process Automation, Risk Mitigation
 - **Marketing Analytics & Performance Metrics**: Customer Segmentation, ROI Analysis, Retention & Churn Metrics, CLV & LTV Calculation, A/B Testing
-- **Programming & Data Science**: Python (Pandas, NumPy, Scikit-learn), Machine Learning (XGBoost, LightGBM, CatBoost)
-- **Financial & Risk Analysis**: Credit Scoring, Predictive Modeling, Regulatory Compliance
-- **Leadership & Strategy**: Budget Planning, Process Optimization, Risk Mitigation
 
 ---
 
