@@ -12,9 +12,6 @@
 ---
 
 ## Skills & Technologies
----
-
-## Skills & Technologies
 - **Data Analytics & Business Intelligence**: Power BI, SQL, Tableau, Google Analytics 4, Looker
 - **Marketing Analytics & Performance Metrics**: Customer Segmentation, ROI Analysis, Retention & Churn Metrics, CLV & LTV Calculation, A/B Testing
 - **Programming & Data Science**: Python (Pandas, NumPy, Scikit-learn), Machine Learning (XGBoost, LightGBM, CatBoost)
