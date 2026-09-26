@@ -22,25 +22,36 @@
 ---
 
 ## Work Experience
-### **🔹 Data Analyst | Machine Learning | Power BI | Marketing Analytics**  _(2021 - 2025)_
+
+### 🔹 Business Logic Consultant & Python Developer | NovaHim
+
+- Automated tender data processing, reducing quotation preparation time from approximately **30–90 minutes to a target of 3–5 minutes**.
+- Developed algorithms and business logic for product matching, pricing, financial calculations, and quotation workflows.
+- Built Python backend logic and supported integration, testing, and Excel output.
+- Used AI-assisted development, prompt engineering, and vibe coding to accelerate implementation and iteration.
+
+### 🔹 Data Analyst | Machine Learning | Power BI | Marketing Analytics *(2021 - 2025)*
+
 - Processed and analyzed over **2 million loan applications (2014-2020)**.
 - Developed **machine learning models** (Logistic Regression, RandomForest, XGBoost, LightGBM, CatBoost) to predict loan approval.
 - Conducted **marketing analytics** by evaluating campaign performance, conversion rates, and customer engagement metrics.
 - Optimized model hyperparameters using **Optuna**, improving **AUC-ROC to 0.63**.
 - Created an **interactive dashboard** displaying key marketing and financial metrics in **Power BI**.
 
-### **🔹 Chief Executive Officer (CEO) | Oma Leipomo Oy**  _(2017 - 2021)_
+### 🔹 Business & Finance Manager | Oma Leipomo Oy *(2017 - 2021)*
+
 - Conducted **financial analysis** and implemented **data-driven decision-making**.
 - Developed **risk assessment models**, reducing operational losses by **15%**.
 - Utilized **Power BI and SQL** to track key business and financial metrics, optimizing operational costs by **20%**.
 - Improved **strategic planning**, increasing revenue by **30%**.
 - Implemented **customer analytics strategies**, improving retention and engagement.
 
-### **🔹 Head of Financial Management | State Control Committee**  _(2004 - 2015)_
-- Managed **budget planning** and **financial risk analysis**.
-- Developed **credit risk models** and conducted **financial audits**, reducing discrepancies by **25%**.
-- Optimized **budget allocation**, improving financial efficiency by **20%**.
+### 🔹 Financial Management & Control | Public Sector *(2004 - 2015)*
 
+- Managed **budget planning, financial control, reporting, and risk analysis**.
+- Conducted **financial audits**, reducing reporting errors by **25%**.
+- Optimized **budget allocation**, improving financial efficiency by **20%**.
+- Implemented **data-driven financial strategies** across government institutions.
 ---
 
 ## 📚 Education
