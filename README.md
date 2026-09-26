@@ -4,7 +4,7 @@
 🌱 **I’m currently learning**: AWS cloud solutions, advanced machine learning, and automation with Power Platform.
 👯 **I’m looking to collaborate on**: Data-driven projects, business intelligence, and predictive modeling.
 🤔 **I’m looking for help with**: Exploring AI-driven data automation and optimization.
-💬 **Ask me about**: Financial analysis, Power BI, SQL, marketing metrics, and predictive analytics.
+💬 **Ask me about**: Financial analysis, Power BI, SQL, backend business logic, and AI-assisted development, marketing metrics, and predictive analytics.
 📫 **How to reach me**: [luidmilaam@gmail.com](mailto:luidmilaam@gmail.com) | [LinkedIn](https://www.linkedin.com/in/liudmila-ambarova/) | [Portfolio](https://comfy-cannoli-c2b6a6.netlify.app/)
 😄 **Pronouns**: She/Her
 ⚡ **Fun fact**: I love intellectual games and futuristic concepts that merge science and technology.
