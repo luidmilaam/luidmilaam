@@ -55,7 +55,7 @@
 ---
 
 ## 📚 Education
-🎓 **AI University** 
+🎓 **AI University**
 🎓 **Financial Management** – Metropolia University of Applied Sciences (Helsinki)  
 🎓 **Master of Financial Management, Finance & Credit Science** – RANEPA, St. Petersburg  
 🎓 **Economist in Urban Studies** – College of Urban Management, Petrozavodsk  
