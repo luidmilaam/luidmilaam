@@ -7,7 +7,7 @@
 💬 **Ask me about**: Financial analysis, Power BI, SQL, marketing metrics, predictive analytics, Python automation, backend business logic, and AI-assisted development.  
 📫 **How to reach me**: [luidmilaam@gmail.com](mailto:luidmilaam@gmail.com) | [LinkedIn](https://www.linkedin.com/in/liudmila-ambarova/) | [Portfolio](https://comfy-cannoli-c2b6a6.netlify.app/)  
 😄 **Pronouns**: She/Her  
-⚡ **Fun fact**: I love intellectual games and futuristic concepts that merge science and technology.
+⚡ **Fun fact**: I love intellectual games and futuristic concepts that merge science and technology
 ---
 
 ## Skills & Technologies
