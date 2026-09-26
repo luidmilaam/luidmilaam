@@ -1,14 +1,13 @@
-## Hi there  I'm Liudmila Ambarova
+# Hi there I'm Liudmila Ambarova
 
-🔭 **I’m currently working on**: Data analytics, financial forecasting, and marketing analytics.
-🌱 **I’m currently learning**: AWS cloud solutions, advanced machine learning, and automation with Power Platform.
-👯 **I’m looking to collaborate on**: Data-driven projects, business intelligence, and predictive modeling.
-🤔 **I’m looking for help with**: Exploring AI-driven data automation and optimization.
-💬 **Ask me about**: Financial analysis, Power BI, SQL, marketing metrics, and predictive analytics.
-📫 **How to reach me**: luidmilaam@gmail.com | [LinkedIn](https://www.linkedin.com/in/liudmila-ambarova/) | [Portfolio (https://comfy-cannoli-c2b6a6.netlify.app/)]
-😄 **Pronouns**: She/Her
+🔭 **I’m currently working on**: Data analytics, financial forecasting, marketing analytics, finance automation, backend development, and Python-based business solutions.  
+🌱 **I’m currently learning**: AWS cloud solutions, advanced machine learning, automation with Power Platform, AI-assisted development, vibe coding, and prompt engineering.  
+👯 **I’m looking to collaborate on**: Data-driven projects, business intelligence, predictive modeling, finance automation, backend solutions, and AI-enabled business applications.  
+🤔 **I’m looking for help with**: Exploring AI-driven data automation, optimization, intelligent financial workflows, and modern software development practices.  
+💬 **Ask me about**: Financial analysis, Power BI, SQL, marketing metrics, predictive analytics, Python automation, backend business logic, and AI-assisted development.  
+📫 **How to reach me**: [luidmilaam@gmail.com](mailto:luidmilaam@gmail.com) | [LinkedIn](https://www.linkedin.com/in/liudmila-ambarova/) | [Portfolio](https://comfy-cannoli-c2b6a6.netlify.app/)  
+😄 **Pronouns**: She/Her  
 ⚡ **Fun fact**: I love intellectual games and futuristic concepts that merge science and technology.
-
 ---
 
 ## Skills & Technologies
