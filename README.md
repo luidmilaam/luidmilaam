@@ -1,5 +1,4 @@
  ## Hi there  I'm Liudmila Ambarova
-
 🔭 **I’m currently working on**: Data analytics, financial forecasting, and marketing analytics.
 🌱 **I’m currently learning**: AWS cloud solutions, advanced machine learning, and automation with Power Platform.
 👯 **I’m looking to collaborate on**: Data-driven projects, business intelligence, and predictive modeling.
